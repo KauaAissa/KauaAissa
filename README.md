@@ -2,6 +2,8 @@
 
 Sou estudante de Desenvolvimento de Sistemas e apaixonado por tecnologia! Atualmente, me especializo em construir soluções completas, com foco em aplicações front-end e back-end eficientes e escaláveis. 
 
+<br>
+
 ## 🚀 Tecnologias
 
 ### **Front-end**
@@ -20,6 +22,15 @@ Sou estudante de Desenvolvimento de Sistemas e apaixonado por tecnologia! Atualm
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
+
+<br>
+
+## 🌐 Meu Portfólio
+Acesse meu portfólio para conhecer mais sobre mim, meus projetos e habilidades de forma detalhada:
+
+🔗 **[KauaAissa.github.io](https://KauaAissa.github.io)**
+
+<br>
 
 ## 🌐 Contato
 <div> 
