@@ -9,9 +9,8 @@ Além disso, adoro aprender novas linguagens, seja de programação ou idiomas. 
 _**(I am a Systems Development student and passionate about technology! I am specializing in building complete solutions, with a focus on developing efficient and scalable front-end and back-end applications.**_
 
 _**Additionally, I love learning new languages, whether they are programming languages or spoken languages. I have an advanced level of English, and I am currently studying Spanish to expand my knowledge of a new language.)**_
-<br>
+<br><br>
 
-#
 
 ## 🚀 Tecnologias - Technologies
 
