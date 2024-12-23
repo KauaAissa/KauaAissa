@@ -1,6 +1,8 @@
 # 👋 Olá! Eu sou Kauã Aissa — Desenvolvedor Full Stack!
 
-Sou estudante de Desenvolvimento de Sistemas e apaixonado por tecnologia! Atualmente, me especializo em construir soluções completas, com foco em aplicações front-end e back-end eficientes e escaláveis. 
+  Sou estudante de Desenvolvimento de Sistemas e apaixonado por tecnologia! Estou me especializando na criação de soluções completas, com foco em desenvolver aplicações front-end e back-end eficientes e escaláveis.
+
+Além disso, adoro aprender novas linguagens, seja de programação ou idiomas. Tenho nível avançado de inglês e, atualmente, estou estudando espanhol para expandir meus conhecimentos em uma nova língua.
 
 <br>
 
