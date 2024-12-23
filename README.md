@@ -23,7 +23,7 @@ _**Additionally, I love learning new languages, whether they are programming lan
 
 ### _**Tools**_
 
-[![My tool Skills](https://skillicons.dev/icons?i=vscode,git,github,windows&perline=13)](#)
+[![My tool Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,windows&perline=13)](#)
 
 <br>
 
