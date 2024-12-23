@@ -44,4 +44,8 @@ Acesse meu portfólio para conhecer mais sobre mim, meus projetos e habilidades 
   <a href="https://wa.me/5519999255022" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contato WhatsApp"></a>
 </div>
 
+<br>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=5C258D&section=footer&"/>
+</p>
