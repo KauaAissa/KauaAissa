@@ -1,14 +1,14 @@
-# Kauã Aissa — Desenvolvedor Full Stack e Tecnólogo em Desenvolvimento de Sistemas!
+# Kauã Aissa — Desenvolvedor *Full Stack* e Tecnólogo em Desenvolvimento de Sistemas!
 
-  Sou estudante de Desenvolvimento de Sistemas e apaixonado por tecnologia! Estou me especializando na criação de soluções completas, com foco em desenvolver aplicações front-end e back-end eficientes e escaláveis.
+  Sou estudante de **Desenvolvimento de Sistemas** e apaixonado por tecnologia! Estou me especializando na criação de soluções completas, com foco em desenvolver aplicações _**front-end**_ e _**back-end**_ eficientes e escaláveis.
 
-Além disso, adoro aprender novas linguagens, seja de programação ou idiomas. Tenho nível avançado de inglês e, atualmente, estou estudando espanhol para expandir meus conhecimentos em uma nova língua.
+Além disso, adoro aprender novas linguagens, seja de programação ou idiomas. Tenho nível avançado de **inglês** e, atualmente, estou estudando **espanhol** para expandir meus conhecimentos em uma nova língua.
 
 <br>
 
 ## 🚀 Tecnologias
 
-### **Front-end**
+### _**Front-end**_
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,7 +17,7 @@ Além disso, adoro aprender novas linguagens, seja de programação ou idiomas. 
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
-### **Back-end**
+### _**Back-end**_
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
