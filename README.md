@@ -1,4 +1,4 @@
-# Kauã Aissa — Desenvolvedor *Full Stack* e Tecnólogo em Desenvolvimento de Sistemas!
+# Kauã Aissa — Desenvolvedor _Full Stack_ e Tecnólogo em Desenvolvimento de Sistemas!
 
 Sou estudante de **Desenvolvimento de Sistemas** e apaixonado por tecnologia! Estou me especializando na criação de soluções completas, com foco em desenvolver aplicações _**front-end**_ e _**back-end**_ eficientes e escaláveis.
 
@@ -12,31 +12,31 @@ _**Additionally, I love learning new languages, whether they are programming lan
 <br><br>
 
 
-## 🚀 Tecnologias - Technologies
+## 🚀 Tecnologias - _Technologies_
 
-### _**Front-end**_
+* ### _Front-end_
 [![My Front-end Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,&perline=13)](#)
 
-### _**Back-end**_
+* ### _Back-end_
 
 [![My Back-en dSkills](https://skillicons.dev/icons?i=mysql,mongodb,php,java&perline=13)](#)
 
-### _**Tools**_
+* ### _Tools_
 
 [![My tool Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,windows&perline=13)](#)
 
 <br>
 
-## 🌐 Meu Portfólio - My Portfolio
+## 🌐 Meu Portfólio - _My Portfolio_
 Acesse meu portfólio para conhecer mais sobre mim, meus projetos e habilidades de forma detalhada:
 
-**(Check out my portfolio to learn more about me, my projects, and skills in detail:)**
+_**(Check out my portfolio to learn more about me, my projects, and skills in detail:)**_
 
 🔗 **[KauaAissa.github.io](https://KauaAissa.github.io)**
 
 <br>
 
-## 🌐 Contato - ## 🌐 Contact
+## 🌐 Contato -- _Contact_
 <div> 
   <a href="https://www.instagram.com/fx.aissa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaua.aissa.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
