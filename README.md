@@ -32,7 +32,7 @@ Acesse meu portfólio para conhecer mais sobre mim, meus projetos e habilidades 
 
 _**(Check out my portfolio to learn more about me, my projects, and skills in detail:)**_
 
-🔗 **[KauaAissa.github.io](https://KauaAissa.github.io)**
+🔗 **[https://aissa.space](https://aissa.space)**
 
 <br>
 
