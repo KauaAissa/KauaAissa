@@ -1,4 +1,4 @@
-# Kauã Aissa — Desenvolvedor _Full Stack_ e Tecnólogo em Desenvolvimento de Sistemas!
+# Kauã Aissa — Desenvolvedor _Full Stack_ e Estudante de Desenvolvimento de Sistemas!
 
 Sou estudante de **Desenvolvimento de Sistemas** e apaixonado por tecnologia! Estou me especializando na criação de soluções completas, com foco em desenvolver aplicações _**front-end**_ e _**back-end**_ eficientes e escaláveis.
 
