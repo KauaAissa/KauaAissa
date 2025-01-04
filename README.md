@@ -27,10 +27,10 @@ _**Additionally, I love learning new languages, whether they are programming lan
 
 <br>
 
-## 🌐 Meu Portfólio - _My Portfolio_
-Acesse meu portfólio para conhecer mais sobre mim, meus projetos e habilidades de forma detalhada:
+## 🌐 Meu WebSite/Portfólio - _My WebSite/Portfolio_
+Acesse o meu Web site que contem meu portfólio para conhecer mais sobre mim, meus projetos e habilidades de forma detalhada:
 
-_**(Check out my portfolio to learn more about me, my projects, and skills in detail:)**_
+_**(Check out my Web Site portfolio to learn more about me, my projects, and skills in detail:)**_
 
 🔗 **[https://aissa.space](https://aissa.space)**
 
