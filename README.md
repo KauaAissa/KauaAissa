@@ -19,7 +19,7 @@ _**Additionally, I love learning new languages, whether they are programming lan
 
 * ### _Back-end_
 
-[![My Back-en dSkills](https://skillicons.dev/icons?i=mysql,mongodb,php,java&perline=13)](#)
+[![My Back-en dSkills](https://skillicons.dev/icons?i=mysql,mongodb,php&perline=13)](#)
 
 * ### _Tools_
 
