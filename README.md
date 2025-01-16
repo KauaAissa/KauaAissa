@@ -1,12 +1,12 @@
 # Kauã Aissa — Desenvolvedor _Full Stack_ e Estudante de Analise e Desenvolvimento de Sistemas!
 
-Sou estudante de **Desenvolvimento de Sistemas** e apaixonado por tecnologia! Estou me especializando na criação de soluções completas, com foco em desenvolver aplicações _**front-end**_ e _**back-end**_ eficientes e escaláveis.
+Sou estudante de **Analise e Desenvolvimento de Sistemas** e apaixonado por tecnologia! Estou me especializando na criação de soluções completas, com foco em desenvolver aplicações _**front-end**_ e _**back-end**_ eficientes e escaláveis.
 
 Além disso, adoro aprender novas linguagens, seja de programação ou idiomas. Tenho nível avançado de **inglês** e, atualmente, estou estudando **espanhol** para expandir meus conhecimentos em uma nova língua.
 
 #
 
-_**(I am a Systems Development student and passionate about technology! I am specializing in building complete solutions, with a focus on developing efficient and scalable front-end and back-end applications.**_
+_**(I am a Systems Analysis and development student and passionate about technology! I am specializing in building complete solutions, with a focus on developing efficient and scalable front-end and back-end applications.**_
 
 _**Additionally, I love learning new languages, whether they are programming languages or spoken languages. I have an advanced level of English, and I am currently studying Spanish to expand my knowledge of a new language.)**_
 <br><br>
