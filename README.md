@@ -21,9 +21,13 @@ _**Additionally, I love learning new languages, whether they are programming lan
 
 [![My Back-en dSkills](https://skillicons.dev/icons?i=mysql,mongodb,php&perline=13)](#)
 
-* ### _Tools_
+* ### _Ferramentas - Tools_
 
 [![My tool Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,windows&perline=13)](#)
+
+* ### _Estudando - Studying_
+
+[![Studying](https://skillicons.dev/icons?i=python&perline=13)](#)
 
 <br>
 
