@@ -1,33 +1,37 @@
 # Kauã Aissa — Desenvolvedor _Full Stack_ e Estudante de Analise e Desenvolvimento de Sistemas!
 
-Sou estudante de **Analise e Desenvolvimento de Sistemas** e apaixonado por tecnologia! Estou me especializando na criação de soluções completas, com foco em desenvolver aplicações _**front-end**_ e _**back-end**_ eficientes e escaláveis.
+Olá! Sou o Kauã Aissa, estagiário em **Service Delivery TI** na rede **Supermercados Pague Menos** e estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**.
 
-Além disso, adoro aprender novas linguagens, seja de programação ou idiomas. Tenho nível avançado de **inglês** e, atualmente, estou estudando **espanhol** para expandir meus conhecimentos em uma nova língua.
+Atuo como **desenvolvedor Full Stack**, com experiência em criar soluções completas que vão do front-end ao back-end, além de integrar aplicações com bancos de dados e sistemas corporativos. Nos últimos meses, tenho me aprofundado em RPA (Robotic Process Automation) com Python, trabalhando em automações que envolvem e-mail, Python, SharePoint, Selenium e bancos Oracle.
+
+Sou apaixonado por tecnologia e aprendizado contínuo. Tenho inglês avançado, além de estar sempre explorando novas linguagens de programação e ferramentas.
 
 #
 
-_**(I am a Systems Analysis and development student and passionate about technology! I am specializing in building complete solutions, with a focus on developing efficient and scalable front-end and back-end applications.**_
+_**Hi! I'm Kauã Aissa, an IT Service Delivery intern at Supermercados Pague Menos and a Systems Analysis and Development student at FATEC.**_
 
-_**Additionally, I love learning new languages, whether they are programming languages or spoken languages. I have an advanced level of English, and I am currently studying Spanish to expand my knowledge of a new language.)**_
+_**I work as a Full Stack Developer, experienced in building complete solutions from front-end to back-end, and integrating applications with databases and corporate systems. Recently, I’ve been focusing on RPA (Robotic Process Automation) using Python, developing automations that integrate email, Python, SharePoint, Selenium, and Oracle databases.**_
+
+_**I am passionate about technology and continuous learning. I have advanced English skills, while also exploring new programming languages and tools.**_
 <br><br>
 
 
 ## 🚀 Tecnologias - _Technologies_
 
 * ### _Front-end_
-[![My Front-end Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,&perline=13)](#)
+[![My Front-end Skills](https://skillicons.dev/icons?i=html,css,js,&perline=13)](#)
 
 * ### _Back-end_
 
-[![My Back-en dSkills](https://skillicons.dev/icons?i=mysql,mongodb,php&perline=13)](#)
+[![My Back-en dSkills](https://skillicons.dev/icons?i=nodejs,php,python&perline=13)](#)
+
+* ### _Banco de Dados - DataBase_
+
+[![Studying](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=13)](#)
 
 * ### _Ferramentas - Tools_
 
-[![My tool Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,windows&perline=13)](#)
-
-* ### _Estudando - Studying_
-
-[![Studying](https://skillicons.dev/icons?i=python&perline=13)](#)
+[![My tool Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,windows,postman&perline=13)](#)
 
 <br>
 
