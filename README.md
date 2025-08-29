@@ -19,7 +19,7 @@ _**I am passionate about technology and continuous learning. I have advanced Eng
 
 - ### _Front-end_
 
-  [![My Front-end Skills](https://skillicons.dev/icons?i=html,css,js,&perline=13)](#)
+[![My Front-end Skills](https://skillicons.dev/icons?i=html,css,js,&perline=13)](#)
 
 - ### _Back-end_
 
@@ -44,8 +44,8 @@ _**(Check out my Web Site portfolio to learn more about me, my projects, and ski
 🔗 **[https://aissa.space](https://aissa.space)**
 
 <br>
-
-## 🌐 Contato -- _Contact_
+<img src="assets/blackcat.png" alt="Logo Gato Preto" width="120" align="right" />
+## 🌐 Contato -- _Contact_  
 
 <div> 
   <a href="https://www.instagram.com/fx.aissa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -53,7 +53,7 @@ _**(Check out my Web Site portfolio to learn more about me, my projects, and ski
   <a href="https://www.linkedin.com/in/kauaaissa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5519999255022" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contato WhatsApp"></a>
 </div>
-<img src="assets/blackcat.png" alt="Logo Gato Preto" width="120" align="right" />
+
 <br>
 
 <p align="center">
