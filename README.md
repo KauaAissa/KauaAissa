@@ -1,4 +1,4 @@
-# Kauã Aissa — _Developer Full Stack_ | _Automation_ 🐈‍⬛
+# Kauã Aissa — _Developer Full Stack_ | _Automation_
 
 Olá! Sou o **Kauã Aissa**, **Desenvolvedor Full Stack e de Automação** na rede **Supermercados Pague Menos**, com **2 anos de experiência** em ambientes corporativos de grande porte.
 
