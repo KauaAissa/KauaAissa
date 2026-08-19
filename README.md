@@ -4,7 +4,7 @@ Olá! Sou o **Kauã Aissa**, **Desenvolvedor Full Stack e de Automação** na re
 
 Atuo no **ciclo completo de software** — da concepção e levantamento de requisitos ao **deploy** e à **sustentação**. Trabalho em duas grandes frentes: **sistemas web modernos e escaláveis** (React, Next.js, Node.js) e **eficiência operacional** com **automações/RPA** em Python (Selenium, SharePoint, e-mail, bancos Oracle) que reduzem custos e eliminam trabalho manual.
 
-Formado pelo programa **P-TECH/AMS** (parceria **IBM** + **Centro Paula Souza**), tenho inglês avançado/fluente e, atualmente, aprofundo meus estudos em **agentes inteligentes e Inteligência Artificial**. 🤖
+Formado pelo programa **P-TECH/AMS** (parceria **IBM** + **Centro Paula Souza**), tenho inglês avançado/fluente e, atualmente, aprofundo meus estudos em **agentes inteligentes e Inteligência Artificial**. 
 
 #
 
